@@ -15,3 +15,5 @@ An Eulerian Walk over the De Bruijn graph will generate back the original DNA se
 ### Requirements:
 - Graphviz Library
 - Graphviz windows application
+### Poster Presentation Link: https://www.youtube.com/watch?v=2CTJPYUhnC4&feature=youtu.be
+### Application Demonstration: https://www.youtube.com/watch?v=lltf4dOIt-E&feature=youtu.be
